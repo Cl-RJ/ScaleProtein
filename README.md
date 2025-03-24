@@ -65,7 +65,7 @@ We merge these files using **merge_data.py** to create `processed_protein_data.c
 
 1. **Clone or download the repository:**
    ```bash
-   git clone https://github.com/yourusername/ScaleProtein.git
+   git clone https://github.com/Cl-RJ/ScaleProtein.git
    cd ScaleProtein
    ```
 2. **Create and activate a Python environment:**
